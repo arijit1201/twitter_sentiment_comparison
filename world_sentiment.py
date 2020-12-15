@@ -18,3 +18,4 @@ def get_sentiment():
 def generate_avg_sentiment_score():
     return
 
+#demo change
